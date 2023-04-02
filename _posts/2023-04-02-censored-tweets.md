@@ -91,6 +91,8 @@ Twitter and Reddit permanently banned my accounts previously for saying the belo
 
 >In debates with atheists, Christians at least use logic even if said logic is improper. Unfortunately, Hindu's don't even use logic.
 
+>Buddhism and Jainism are the religions that I hate least. But they are also stupid and immoral just like all the other religions. The stupidity in these 2 is to the same extent as other religions. But the immorality is to a lesser extent.
+
 ### Veganism
 
 > Humanity has not yet reached a point where our existence can be considered a positive thing. I hope we can reach that point in few centuries. 1/3 [9:42 PM · Dec 31, 2022 · 11 Views]
