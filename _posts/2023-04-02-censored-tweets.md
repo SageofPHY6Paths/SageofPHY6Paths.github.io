@@ -1,7 +1,7 @@
 ---
 title: Censored tweets
 date: 2023-04-02 17:18:00 +0530
-categories: [Atheism, Veganism]
+categories: [Both]
 tags: [quote, tweet]
 pin: true
 ---
