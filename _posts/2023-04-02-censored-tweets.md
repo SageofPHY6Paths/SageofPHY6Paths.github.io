@@ -9,7 +9,7 @@ Twitter and Reddit permanently banned my accounts previously for saying the belo
 
 ### Atheism
 
-> If your religion wants me to be a slave to some other fools who believe in this religion, then of course I will disrespect it out of self respect for myself. This religion offends me more than I offend its believers. Context: <a href="https://hinduismdebunked.com/immorality/caste-system/#sb-71115" target="_blank">Srimad Bhagavatam 7.11.15</a> [3:40 PM · Dec 31, 2022 · 15 Views]
+> If your religion wants me to be a slave to some fools who believe in this religion, then of course I will disrespect it out of self respect for myself. This religion offends me more than I offend its believers. Context: <a href="https://hinduismdebunked.com/immorality/caste-system/#sb-71115" target="_blank">Srimad Bhagavatam 7.11.15</a> [3:40 PM · Dec 31, 2022 · 15 Views]
 
 > 2 ways people can find meaning [without religion]:<br>
 > 1)Reduce suffering: Fight for the abolishment of animal agriculture. Fight against human trafficking, wars, racism, casteism, inequality etc.<br>
@@ -122,7 +122,6 @@ Twitter and Reddit permanently banned my accounts previously for saying the belo
 >Lust has successfully blinded humans so that they never realize how ugly sex is. We should not be "subject to the common frailties of mankind" and follow the example of Newton to minimize these animalistic desires that are present in humans.
 
 >If humans had only one gender, like the <a href="https://dragonball.fandom.com/wiki/Namekian" target="_blank">Namekians</a> in the Dragon Ball franchise, humans would have by now become a galactic civilisation.
-
 
 >Fundamental physics is like the top of the physics mountain. Just because you reached the top doesn't mean you already reached every other point on the mountain. But people are more excited about reaching the top than reaching any point in the middle.
 
