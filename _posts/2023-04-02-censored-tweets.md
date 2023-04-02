@@ -5,7 +5,7 @@ categories: [Both]
 tags: [quote, tweet]
 pin: true
 ---
-Twitter and Reddit permanently banned my accounts previously for saying the below things. Check <a href="https://sage.hinduismdebunked.com/posts/sick-of-censorship/" target="_blank">this</a> for more info.
+<a href="https://twitter.com/SageofPHY6Paths" target="_blank">Twitter</a> and <a href="https://www.reddit.com/user/SageofPHY6Paths" target="_blank">Reddit</a> permanently banned my previous accounts for saying the below things. Check <a href="https://sage.hinduismdebunked.com/posts/sick-of-censorship/" target="_blank">this</a> for more info.
 
 ### Atheism
 
