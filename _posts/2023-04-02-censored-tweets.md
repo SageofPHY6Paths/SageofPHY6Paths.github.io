@@ -9,7 +9,7 @@ Twitter and Reddit permanently banned my accounts previously for saying the belo
 
 ### Atheism
 
-> If your religion wants me to be a slave to some other fools who believe in this religion, then of course I will disrespect it out of self respect for myself. This religion offends me more than I offend its believers. Context: <a href="https://hinduismdebunked.com/immorality/caste-system/#sb-71115" target="_blank">Srimad Bhagavatam 7.11.15</a> [3:40 PM · Dec 31, 2022 · 15 Views]
+> If your religion wants me to be a slave to some fools who believe in this religion, then of course I will disrespect it out of self respect for myself. This religion offends me more than I offend its believers. Context: <a href="https://hinduismdebunked.com/immorality/caste-system/#sb-71115" target="_blank">Srimad Bhagavatam 7.11.15</a> [3:40 PM · Dec 31, 2022 · 15 Views]
 
 > 2 ways people can find meaning [without religion]:<br>
 > 1)Reduce suffering: Fight for the abolishment of animal agriculture. Fight against human trafficking, wars, racism, casteism, inequality etc.<br>
