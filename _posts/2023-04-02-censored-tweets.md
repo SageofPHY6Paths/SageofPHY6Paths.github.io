@@ -3,12 +3,11 @@ title: Censored tweets
 date: 2023-04-02 17:18:00 +0530
 categories: [Atheism, Veganism]
 tags: [quote, tweet]
-toc: true
 pin: true
 ---
 Twitter and Reddit permanently banned my accounts previously for saying the below things. Check <a href="https://sage.hinduismdebunked.com/posts/sick-of-censorship/" target="_blank">this</a> for more info.
 
-# Atheism
+### Atheism
 
 > If your religion wants me to be a slave to some other fools who believe in this religion, then of course I will disrespect it out of self respect for myself. This religion offends me more than I offend its believers. Context: <a href="https://hinduismdebunked.com/immorality/caste-system/#sb-71115" target="_blank">Srimad Bhagavatam 7.11.15</a> [3:40 PM · Dec 31, 2022 · 15 Views]
 
@@ -92,7 +91,7 @@ Twitter and Reddit permanently banned my accounts previously for saying the belo
 
 >In debates with atheists, Christians at least use logic even if said logic is improper. Unfortunately, Hindu's don't even use logic.
 
-# Veganism
+### Veganism
 
 > Humanity has not yet reached a point where our existence can be considered a positive thing. I hope we can reach that point in few centuries. 1/3 [9:42 PM · Dec 31, 2022 · 11 Views]
 >
