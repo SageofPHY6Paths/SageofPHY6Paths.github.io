@@ -8,7 +8,7 @@
 
 - type: reddit
   icon: "fab fa-reddit"
-  noblank: true # open link in current tab
+  url:  'https://www.reddit.com/user/Phy6Paths'
 
 - type: email
   icon: "fas fa-envelope"
