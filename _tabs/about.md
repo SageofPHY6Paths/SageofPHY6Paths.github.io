@@ -12,3 +12,6 @@ Check out my websites <a href="https://hinduismdebunked.com/" target="_blank">hi
 
 > Please don't get offended by the word "fools" given above. These days people get offended so easily. I consider every person as a fool. We can only decrease our foolishness but it will never become zero just like temeperature can never reach absolute zero Kelvin.
 {: .prompt-warning }
+
+> "I am the one who will establish peace and order."- <a href="https://naruto.fandom.com/wiki/Hagoromo_%C5%8Ctsutsuki" target="_blank">Rikudō Sennin</a>
+{: .prompt-info }
