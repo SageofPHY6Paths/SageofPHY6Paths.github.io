@@ -93,6 +93,12 @@ pin: true
 
 >Buddhism and Jainism are the religions that I hate least. But they are also stupid and immoral just like all the other religions. The stupidity in these 2 is to the same extent as other religions. But the immorality is to a lesser extent.
 
+>Was/Is there anything more unproductive than religion in human history? The cumulative number of hours humanity wasted on it might be used much smarter.
+
+>Abrahamic god is running a lottery.
+
+>Average person is smart enough to understand that religion is nonsense. If you talk with a religious person about some other religion he will easily understand how stupid it is but he can't understand the nonsense in his own religion.
+
 ### Veganism
 
 > Humanity has not yet reached a point where our existence can be considered a positive thing. I hope we can reach that point in few centuries. 1/3 [9:42 PM · Dec 31, 2022 · 11 Views]
@@ -117,12 +123,15 @@ pin: true
 
 >Philosophically scepticism is even more deeply depressing than animal agriculture. I have hope that through hard work we can abolish animal agriculture. Mere human activists can achieve this in few centuries. But defeating scepticism is beyond human capabilities. Even an omnipotent being will be incapable of doing anything in front of Gödel's second incompleteness theorem.
 
+>Was/Is there anything more evil than animal agriculture?
+
+>If an intelligent civilization comes and sees what we do to farm animals, surely they would want to exterminate our species. Do you have any good argument for why they shouldn't exterminate us? I don't have any.
+
 ### Others
 
 >Lust has successfully blinded humans so that they never realize how ugly sex is. We should not be "subject to the common frailties of mankind" and follow the example of Newton to minimize these animalistic desires that are present in humans.
 
 >If humans had only one gender, like the <a href="https://dragonball.fandom.com/wiki/Namekian" target="_blank">Namekians</a> in the Dragon Ball franchise, humans would have by now become a galactic civilisation.
-
 
 >Fundamental physics is like the top of the physics mountain. Just because you reached the top doesn't mean you already reached every other point on the mountain. But people are more excited about reaching the top than reaching any point in the middle.
 
@@ -155,6 +164,8 @@ pin: true
 8) Fragility of human body in front of cosmic forces<br>
 9) Inefficient energy acquiring by humans. Instead of digestion, Penrose process should be there.<br>
 10) Economic inequality and the trade-off between efficiency and equality.
+
+>Skepticism is more depressing and disturbing than animal agriculture. Even if you have omnipotence you can do nothing to the beast that is logic.
 
 >When you achieve permanent post-nut clarity you will probably study theoretical physics or mathematics or go on a journey reduce suffering in the world.
 
