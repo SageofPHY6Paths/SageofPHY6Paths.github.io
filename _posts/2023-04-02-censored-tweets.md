@@ -99,6 +99,8 @@ pin: true
 
 >Average person is smart enough to understand that religion is nonsense. If you talk with a religious person about some other religion he will easily understand how stupid it is but he can't understand the nonsense in his own religion.
 
+>The only way religion can survive is by constantly reinterpreting things based on scientific and moral progress. If you (religious preacher) interpret everything literally then most people understand how immoral and unscientific it is therefore decreasing the lifespan of that religion. The only way religion can survive is by constantly reinterpreting things based on scientific and moral progress. If you interpret everything literally then most people understand how immoral and unscientific it is therefore decreasing the lifespan of that religion. Your best option is to delay the inevitable end of your religion by constantly reinterpreting or more like misinterpreting. But atheists should thank the ultra conservative people as they are doing us a favor by making the inevitable happen sooner by exposing their religion.
+
 ### Veganism
 
 > Humanity has not yet reached a point where our existence can be considered a positive thing. I hope we can reach that point in few centuries. 1/3 [9:42 PM · Dec 31, 2022 · 11 Views]
