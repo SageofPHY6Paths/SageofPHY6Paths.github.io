@@ -129,6 +129,8 @@ pin: true
 
 >If an intelligent civilization comes and sees what we do to farm animals, surely they would want to exterminate our species. Do you have any good argument for why they shouldn't exterminate us? I don't have any.
 
+>Nonvegan body"builders" are not bodybuilders they are bodystealers. They don't build muscle tissue they steal it from the most unfortunate animals. Please use nuts, soy, etc for protein instead of animal products.
+
 ### Others
 
 >Lust has successfully blinded humans so that they never realize how ugly sex is. We should not be "subject to the common frailties of mankind" and follow the example of Newton to minimize these animalistic desires that are present in humans.
