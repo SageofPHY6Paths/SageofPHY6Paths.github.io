@@ -103,6 +103,8 @@ pin: true
 
 ### Veganism
 
+> Animal agriculture is deplorable. Anyone that supports either meat industry or the dairy industry by buying their products is morally bankrupt.
+
 > Humanity has not yet reached a point where our existence can be considered a positive thing. I hope we can reach that point in few centuries. 1/3 [9:42 PM · Dec 31, 2022 · 11 Views]
 >
 > But as it stands a completely logical being would think it is better to painlessly kill all humans if given such a power. The amount of suffering humans are causing to other sentient beings is enormous. 2/3
