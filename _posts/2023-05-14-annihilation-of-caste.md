@@ -2,7 +2,7 @@
 title: Annihilation of Caste
 date: 2023-05-14 19:46:00 +0530
 categories: [Atheism]
-tags: [hinduism]
+tags: [hinduism, christianity, islam]
 ---
 After reading the Wikipedia article "<a href="https://en.wikipedia.org/wiki/Annihilation_of_Caste" target="_blank">Annihilation of Caste</a>", I found it interesting that Ambedkar came to a *similar* conclusion as me.
 
