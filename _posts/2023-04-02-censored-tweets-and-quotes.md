@@ -85,7 +85,7 @@ pin: true
 
 >Religion is the most unproductive thing humanity has ever invented. Science is the most productive thing humanity has ever discovered (of course it is not a mere human invention).
 
->Caste system is like a branch of a tree. If you cut the branch it will again grow. You need to the remove the entire roots of the tree and these roots are nothing but Hinduism.
+>The caste system is like a branch of a tree. If you cut the branch, it will again grow. You need to remove the entire roots of the tree and these roots are nothing but Hinduism.
 
 >Abrahamic religions are global nonsense (it is the same in all places like global symmetries). Hinduism is a gauge nonsense (it depends on position [like your town/village] similar to gauge symmetries as different villages have different beliefs and rituals).
 

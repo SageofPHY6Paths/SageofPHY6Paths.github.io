@@ -10,11 +10,11 @@ After reading the Wikipedia article "<a href="https://en.wikipedia.org/wiki/Anni
 
 Compare this with my own quote from "<a href="https://sage.hinduismdebunked.com/posts/censored-tweets-and-quotes/" target="_blank">Censored tweets and quotes</a>"
 
-> Caste system is like a branch of a tree. If you cut the branch it will again grow. You need to the remove the entire roots of the tree and these roots are nothing but Hinduism.
+> The caste system is like a branch of a tree. If you cut the branch, it will again grow. You need to remove the entire roots of the tree and these roots are nothing but Hinduism.
 
 So, essentially I said that Hinduism must be eradicated for the caste system to be annihilated.
 
-Compare the relationship between <a href="https://en.wikipedia.org/wiki/Christian_views_on_slavery" target="_blank">Christianity and slavery</a> to the one between Hinduism and the caste system. The caste system is <a href="https://en.wikipedia.org/wiki/Caste_system_in_India#History" target="_blank">older than Hinduism</a> just like slavery is older than Christianity. The caste system has been present from the time of Indus Valley Civilisation (3300 BCE - 1700 BCE), whereas Hinduism was created after the Indo-Aryan migrations.
+Compare the relationship between <a href="https://en.wikipedia.org/wiki/Christian_views_on_slavery" target="_blank">Christianity and slavery</a> to the one between Hinduism and the caste system. The caste system is <a href="https://en.wikipedia.org/wiki/Caste_system_in_India#History" target="_blank">older than Hinduism</a>, just like slavery is older than Christianity. The caste system has been present from the time of Indus Valley Civilisation (3300 BCE - 1700 BCE), whereas Hinduism was created after the Indo-Aryan migrations.
 
 > In the eighteenth and nineteenth century debates concerning abolition, passages in the Bible were used by both pro-slavery advocates and abolitionists to support their respective views. 
 
