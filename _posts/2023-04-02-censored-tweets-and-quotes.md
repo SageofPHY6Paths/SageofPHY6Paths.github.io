@@ -1,11 +1,17 @@
 ---
-title: Censored tweets
+title: Censored tweets and quotes
 date: 2023-04-02 17:18:00 +0530
 categories: [Both]
 tags: [quote, tweet]
 pin: true
 ---
 <a href="https://twitter.com/SageofPHY6Paths" target="_blank">Twitter</a> and <a href="https://www.reddit.com/user/SageofPHY6Paths" target="_blank">Reddit</a> permanently banned my previous accounts for saying the below things. Check <a href="https://sage.hinduismdebunked.com/posts/sick-of-censorship/" target="_blank">this</a> for more info.
+
+# Contents
+
+- [Atheism](#atheism)
+- [Veganism](#veganism)
+- [Others](#others)
 
 ### Atheism
 
