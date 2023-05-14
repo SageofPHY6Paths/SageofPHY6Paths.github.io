@@ -23,16 +23,16 @@ I think 1. and 2. **will not imply** 3. For example, take [Hagoromo Ōtsutsuki][
 
 I can understand why **2000 years ago** people were so impressed by simple miracle **stories** like resurrection and walking on water that they believed that only God can do that, because back then they didn't know much about the universe. They used to think that Earth and Humans are the center of the universe and sun and moon are small compared to earth and stars are even tinier. **In those times they might sound impressive but after humanity has come this long in our understanding of the universe they are no longer impressive enough to conclude that it must be from the creator of the universe**.
 
-Also, just because a very powerful being says that it is omnipotent doesn't imply that it is actually omnipotent. See the image below where [Majin Buu](https://dragonball.fandom.com/wiki/Majin_Buu) from the Dragon Ball franchise claims to be omnipotent, but he is still defeated by Goku. It just means that, that being never came across something that it was not able to do. Majin Buu was able to cure blind people. Majin Buu was able to convert a whole city of people into candy and ate them. He did several galactic-level feats (much more impressive that any Jesus' miracles). But Goku still defeated him using the spirit bomb. Majin Buu can do everything that Jesus can do and in fact he can do many things far beyond the miracles attributed to Jesus. But Majin Buu never showed anything that made me believe he is the god or he had omnipotence.
-
-![Buuhan]({{ site.url }}{{ site.baseurl }}/assets/img/posts/Buuhan.jpeg)
-
 My conclusions:
 
 1. If Jesus' miracles are indeed historical facts (although it's unlikely), then **we can only conclude that [Naturalism][5] is false**.
 2. If a God is assumed to be intelligent, then he will not do miracles that can only impress people of a specific time and instead he will do miracles that are so impressive that any future people of that species will not doubt that he is God after confirming that his miracles are historical facts.
 
 **Did any philosopher write something like this in the past? What is the criticism for this argument?**
+
+Also, just because a very powerful being says that it is omnipotent doesn't imply that it is actually omnipotent. See the image below where [Majin Buu](https://dragonball.fandom.com/wiki/Majin_Buu) from the Dragon Ball franchise claims to be omnipotent, but he is still defeated by Goku. It just means that, that being never came across something that it was not able to do. Majin Buu was able to cure blind people. Majin Buu was able to convert a whole city of people into candy and ate them. He did several galactic-level feats (much more impressive that any Jesus' miracles). But Goku still defeated him using the spirit bomb. Majin Buu can do everything that Jesus can do and in fact he can do many things far beyond the miracles attributed to Jesus. But Majin Buu never showed anything that made me believe he is the god or he had omnipotence.
+
+![Buuhan]({{ site.url }}{{ site.baseurl }}/assets/img/posts/Buuhan.jpeg)
 
 <sup>1<sub>The argument works for other religions like **Hinduism, Islam** also by changing it slightly. Krishna raising Mount Govardhana on his little finger and Muhammad splitting the Moon are not universal feats.</sub></sup>
 
