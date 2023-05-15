@@ -2,16 +2,16 @@
 title: The unimpressiveness of the religious miracles
 date: 2023-05-14 23:17:00 +0530
 categories: [Atheism]
-tags: [hinduism, christianity, islam]
+tags: [philosophy, christianity, hinduism, islam]
 ---
 > This was originally posted on an internet forum on 2021-12-02. But the moderators deleted it.
 {: .prompt-info }
 
 I have an argument against religions and I expected that it would have already been discussed somewhere and I searched online but couldn't find any resources written by philosophers who talked about this argument seriously.
 
-For example, take Christianity<sup>1</sup>,
+For example, take Christianity<sup><a href="#f1">1</a></sup>,
 
-1. Christians believe that many miracles<sup>2</sup> mentioned in the bible are **historical facts** and were not made up later by believers.
+1. Christians believe that many miracles<sup><a href="#f2">2</a></sup> mentioned in the bible are **historical facts** and were not made up later by believers.
 2. They also believe that Jesus **claimed** that he is [God the Son][1] and he is [united in essence][2] to the real God.
 3. From 1. and 2. It follows that his claim is true.
 
@@ -34,9 +34,9 @@ Also, just because a very powerful being says that it is omnipotent doesn't impl
 
 ![Buuhan]({{ site.url }}{{ site.baseurl }}/assets/img/posts/Buuhan.jpeg)
 
-<sup>1<sub>The argument works for other religions like **Hinduism, Islam** also by changing it slightly. Krishna raising Mount Govardhana on his little finger and Muhammad splitting the Moon are not universal feats.</sub></sup>
+<sup><b id="f1">1</b><sub> The argument works for other religions like **Hinduism, Islam** also by changing it slightly. Krishna raising Mount Govardhana on his little finger and Muhammad splitting the Moon are not universal feats.</sub></sup>
 
-<sup>2<sub> By miracles I mean anything that cannot be explained by the established scientific laws and we can't generalize the established scientific laws such that the miracle can be explained. For example, if we encounter [Double-slit experiment][6] and think about it using classical mechanics it seems miraculous but we can generalize classical mechanics into [quantum mechanics][7] which can explain it scientifically.</sub></sup> 
+<sup><b id="f2">2</b><sub> By miracles I mean anything that cannot be explained by the established scientific laws and we can't generalize the established scientific laws such that the miracle can be explained. For example, if we encounter [Double-slit experiment][6] and think about it using classical mechanics it seems miraculous but we can generalize classical mechanics into [quantum mechanics][7] which can explain it scientifically.</sub></sup> 
 
 
   [1]: https://en.wikipedia.org/wiki/God_the_Son
