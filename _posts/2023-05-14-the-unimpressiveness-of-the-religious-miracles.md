@@ -30,6 +30,8 @@ My conclusions:
 
 **Did any philosopher write something like this in the past? What is the criticism for this argument?**
 
+Addendum: The reason I asked on that blog is because originally I came up with the Hiddenness Argument on my own and only long time after that I found the book "The Hiddenness Argument: Philosophy's New Challenge to Belief in God' by [J. L. Schellenberg](https://en.wikipedia.org/wiki/J._L._Schellenberg).
+
 Also, just because a very powerful being says that it is omnipotent doesn't imply that it is actually omnipotent. See the image below where [Majin Buu](https://dragonball.fandom.com/wiki/Majin_Buu) from the Dragon Ball franchise claims to be omnipotent, but he is still defeated by Goku. It just means that, that being never came across something that it was not able to do. Majin Buu was able to cure blind people. Majin Buu was able to convert a whole city of people into candy and ate them. He did several galactic-level feats (much more impressive that any Jesus' miracles). But Goku still defeated him using the spirit bomb. Majin Buu can do everything that Jesus can do and in fact he can do many things far beyond the miracles attributed to Jesus. But Majin Buu never showed anything that made me believe he is the god or he had omnipotence.
 
 ![Buuhan]({{ site.url }}{{ site.baseurl }}/assets/img/posts/Buuhan.jpeg)
