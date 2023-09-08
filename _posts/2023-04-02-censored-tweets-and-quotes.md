@@ -53,6 +53,8 @@ pin: true
 
 >Religion is for the fools by the fools.
 
+>If humans cling on the religions that their barbaric ancestors created, then humans can never progress to be a good spceies.
+
 >Saying that if you are not religious then you are immoral is same as if you are not a butcher then you are not animal rights activist. Only fools can utter such nonsensical statements.
 
 >Your children are not born to be brainwashed by you into your religion. They have the right to be not brainwashed.
