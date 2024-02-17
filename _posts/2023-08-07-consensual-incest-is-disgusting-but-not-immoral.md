@@ -1,5 +1,5 @@
 ---
-title: Incest is disgusting but not immoral
+title: Consensual incest is disgusting but not immoral
 date: 2023-08-07 22:50:00 +0530
 categories: [Atheism]
 tags: [philosophy, ethics, islam]
